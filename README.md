@@ -1,0 +1,2 @@
+# Identify_handwritten_digits
+这是阅读Michael A. Nielsen有关神经网络和深度学习在线书籍的代码和相应笔记，仅供参考
