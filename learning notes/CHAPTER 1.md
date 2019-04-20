@@ -14,7 +14,7 @@
 
   我们专注于handwriting recognition是因为它是一个很好的学习neural networks的典型问题，可以为以后深入deep learning和其他应用打下良好基础
 
-- ### 让我们赶快开始吧,,
+- ### 让我们赶快开始吧
 
 ### [Perceptrons](http://neuralnetworksanddeeplearning.com/chap1.html#perceptrons)
 
